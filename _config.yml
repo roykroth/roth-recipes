@@ -1,10 +1,10 @@
 # Site settings
-title: Roth Family Recipes
+title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "roth.recipes"
-twitter_username: 
-github_username:  
+baseurl: ""
+twitter_username: clarklab
+github_username:  clarklab
 
 # Build settings
 markdown: kramdown
