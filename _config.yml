@@ -2,9 +2,7 @@
 title: Roth Recipes
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+baseurl: "roth.recipes"
 
 # Build settings
 markdown: kramdown
