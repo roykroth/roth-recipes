@@ -30,9 +30,9 @@ ingredients:
 
 directions:
 - For a vegetarian version, substitute vegetable broth for the chicken broth and water. We like to garnish this soup with a small amount of harissa, a fiery North African chili paste, which is available at some supermarkets.
-- 1. Heat oil in large Dutch oven over medium-high heat until shimmering. Add onion and celery and cook, stirring frequently, until translucent and starting to brown, 7 to 8 minutes. Reduce heat to medium, add garlic and ginger, and cook until fragrant, 1 minute. Stir in coriander, paprika, cumin, cinnamon, and pepper flakes and cook for 1 minute. Stir in ½ cup cilantro and ¼ cup parsley and cook for 1 minute.
-- 2. Stir in broth, water, chickpeas, and lentils; increase heat to high and bring to simmer. Reduce heat to medium-low, partially cover, and gently simmer until lentils are just tender, about 20 minutes.
-- 3. Stir in tomatoes and pasta and simmer, partially covered, for 7 minutes, stirring occasionally. Stir in chard and continue to cook, partially covered, until pasta is tender, about 5 minutes longer. Off heat, stir in lemon juice, remaining ¼ cup cilantro, and remaining ¼ cup parsley. Season with salt and pepper to taste. Serve, passing lemon wedges separately.
+- Heat oil in large Dutch oven over medium-high heat until shimmering. Add onion and celery and cook, stirring frequently, until translucent and starting to brown, 7 to 8 minutes. Reduce heat to medium, add garlic and ginger, and cook until fragrant, 1 minute. Stir in coriander, paprika, cumin, cinnamon, and pepper flakes and cook for 1 minute. Stir in ½ cup cilantro and ¼ cup parsley and cook for 1 minute.
+- Stir in broth, water, chickpeas, and lentils; increase heat to high and bring to simmer. Reduce heat to medium-low, partially cover, and gently simmer until lentils are just tender, about 20 minutes.
+- Stir in tomatoes and pasta and simmer, partially covered, for 7 minutes, stirring occasionally. Stir in chard and continue to cook, partially covered, until pasta is tender, about 5 minutes longer. Off heat, stir in lemon juice, remaining 1/4 cup cilantro, and remaining 1/4 cup parsley. Season with salt and pepper to taste. Serve, passing lemon wedges separately.
 
 ---
 Imported From Paprika

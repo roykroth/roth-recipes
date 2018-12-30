@@ -16,4 +16,4 @@ directions:
 - Combine all ingredients in a saucepan. Heat till bubbling. Remove from heat and allow to cool. 
 
 ---
-Imported From Paprika
+Best hot dog sauce of all time.

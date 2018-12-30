@@ -20,7 +20,6 @@ ingredients:
 - ½ tsp. ground coriander
 - ¼ tsp. ground black pepper
 - ⅛ tsp. cayenne pepper
-- Garnishes:
 - Finely grated monterey jack cheese
 - 2 seasoned & grilled chicken breasts, sliced
 - Pico de gallo (fresh chunky salsa)
