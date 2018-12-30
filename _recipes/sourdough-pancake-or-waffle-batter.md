@@ -5,10 +5,12 @@ title: Sourdough Pancake or Waffle Batter
 image: 774da7e7-2e8e-41be-8c73-ab23073efc1c.jpg
 
 ingredients:
+- FOR THE OVERNIGHT SPONGE, OR BASE:
 - 1 cup/240 grams sourdough starter “unfed”
 - 1 cup/224 grams buttermilk
 - 1 cup/120 grams all-purpose flour
 - 1 tablespoon/about 13 grams light brown sugar
+- FOR THE BATTER:
 - 1 large egg
 - ¼ cup melted unsalted butter or neutral oil
 - ½ teaspoon vanilla extract

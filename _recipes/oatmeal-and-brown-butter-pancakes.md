@@ -18,13 +18,13 @@ ingredients:
 - Warm maple syrup, for serving
 
 directions:
-- Heat oats in a medium skillet over medium heat, tossing and stirring frequently, until toasted and nutty, about 4 minutes. Transfer to a bowl and allow to cool slightly.
-- Add butter to now-empty skillet, place over low heat, and cook, swirling constantly, until solids turn a golden brown and butter smells nutty, about 2 minutes. Transfer to a second bowl.
-- Transfer oats to the jar of a blender and blend on high speed until completely powdered, about 1 minute. Return to bowl. Add flour, baking powder, baking soda, salt, and sugar, and whisk to combine.
-- Preheat a griddle or a large pan over medium heat. Rub with a paper towel dipped in oil.
-- Add eggs and buttermilk to bowl with browned butter and whisk to combine. Dump dry ingredients into wet ingredients and whisk until just incorporated and no dry pockets or streaks of flour remain but batter is still lumpy.
-- Add batter in 1/3-cup ladles and spread gently with the bottom of the ladle into 4-inch disks. Cook without disturbing until bubbles form on the top surface and bottom is a deep golden brown (peek underneath with a spatula). Carefully flip pancakes and continue cooking until second side is golden brown.
-- Transfer cooked pancakes to a wire rack set in a rimmed baking sheet and store in a warm oven while you cook the remaining pancakes. Serve pancakes immediately with warm maple syrup.
+- 1. Heat oats in a medium skillet over medium heat, tossing and stirring frequently, until toasted and nutty, about 4 minutes. Transfer to a bowl and allow to cool slightly.
+- 2. Add butter to now-empty skillet, place over low heat, and cook, swirling constantly, until solids turn a golden brown and butter smells nutty, about 2 minutes. Transfer to a second bowl.
+- 3. Transfer oats to the jar of a blender and blend on high speed until completely powdered, about 1 minute. Return to bowl. Add flour, baking powder, baking soda, salt, and sugar, and whisk to combine.
+- 4. Preheat a griddle or a large pan over medium heat. Rub with a paper towel dipped in oil.
+- 5. Add eggs and buttermilk to bowl with browned butter and whisk to combine. Dump dry ingredients into wet ingredients and whisk until just incorporated and no dry pockets or streaks of flour remain but batter is still lumpy.
+- 6. Add batter in 1/3-cup ladles and spread gently with the bottom of the ladle into 4-inch disks. Cook without disturbing until bubbles form on the top surface and bottom is a deep golden brown (peek underneath with a spatula). Carefully flip pancakes and continue cooking until second side is golden brown.
+- 7. Transfer cooked pancakes to a wire rack set in a rimmed baking sheet and store in a warm oven while you cook the remaining pancakes. Serve pancakes immediately with warm maple syrup.
 
 ---
-These are the second best pancakes of all time. 
+Imported From Paprika
