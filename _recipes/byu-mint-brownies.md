@@ -30,4 +30,3 @@ directions:
 - Spread mint icing over brownies. Place brownies in the freezer for a short time to stiffen the icing. Remove from the freezer and carefully add a layer of chocolate icing.
 
 ---
-Imported From Paprika
