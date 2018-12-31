@@ -2,9 +2,11 @@
 
 layout: recipe
 title: JDawgs Sauce
+image: jdawg.jpg
+
 ingredients:
 - 1 cup ketchup
-- ¾  cup brown sugar
+- ¾ cup brown sugar
 - 1 tbsp bbq sauce
 - ¼ cup honey
 - 1 tsp soy sauce

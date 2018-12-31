@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Christmas Caramels
-image:
+image: christmascaramels.jpg
 
 ingredients:
 - 1/2 C butter

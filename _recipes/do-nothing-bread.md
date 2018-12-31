@@ -2,6 +2,8 @@
 
 layout: recipe
 title: Do Nothing Bread
+title: donothingbread.jpg
+
 ingredients:
 - 60% Wheat Flour
 - 40% White Flour
@@ -16,4 +18,3 @@ directions:
 - Bake in 475 degree oven, inside combo cooker for 20 minutes, then remove lid and cook for about 20 minutes more. 
 
 ---
-Imported From Paprika
