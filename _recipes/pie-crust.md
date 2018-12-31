@@ -20,3 +20,7 @@ directions:
 - Roll out to a circle 1 inch larger than inverted pie pan. 
 - Prick bottom and sides generously with fork. 
 - Bake 8-10 minutes until light golden brown. Cool.
+
+---
+
+Basic pie crust. Great for fruit fillings.
