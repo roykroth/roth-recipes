@@ -5,10 +5,10 @@ title: Pie Crust
 image:
 
 ingredients:
-1 C unsifted flour
-1/2 tsp salt
-1/3 C chilled 
-3 to 4 tbsp cold water
+- 1 C unsifted flour
+- 1/2 tsp salt
+- 1/3 C chilled 
+- 3 to 4 tbsp cold water
 
 directions:
 - Preheat over to 450 degrees.
