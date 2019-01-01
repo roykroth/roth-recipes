@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Do Nothing Bread
-title: donothingbread.jpg
+image: donothingbread.jpg
 
 ingredients:
 - 60% Wheat Flour
