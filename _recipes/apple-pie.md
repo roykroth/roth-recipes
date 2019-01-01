@@ -25,4 +25,4 @@ directions:
 - Place pie in oven and bake on hot baking sheet for 20 minutes, then reduce temperature to 375. Continue to cook until the interior is bubbling and the crust is golden brown, about 30 to 40 minutes more. Remove and allow to cool on a windowsill or kitchen rack, about two hours.
 
 ---
-Imported From Paprika
+Fantastic yummy apple pie.
