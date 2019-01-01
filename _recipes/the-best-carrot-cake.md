@@ -2,8 +2,9 @@
 
 layout: recipe
 title: The Best Carrot Cake
-ingredients: bestcarrotcake.jpg
+image: bestcarrotcake.jpg
 
+ingredients:
 - For the carrot cake
 - 2 cups (250 grams) all-purpose flour (spooned & leveled)
 - 2 teaspoons baking powder
