@@ -22,3 +22,6 @@ instructions:
 - Heat olive oil in saucepan over medium heat. Add onions and cook 3-5 minutes. Add ground turkey and cook until browned. Drain excess fat.
 - Stir in remaining ingredients, except romain lettuce. Cook about 2 minutes.
 - To serve, spoon into romaine lettuce leaf, taco-style.
+
+---
+Excellent copycat recipe. Serves well with brown rice and edamame.
