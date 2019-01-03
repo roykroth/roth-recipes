@@ -26,4 +26,3 @@ directions:
 - You can let the dough rest for up to 24 hours covered with plastic wrap in the fridge. The dough will need to sit on the counter and come back to room temperature to use.
 
 ---
-Imported From Paprika

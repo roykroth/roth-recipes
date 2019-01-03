@@ -31,4 +31,3 @@ directions:
 - Return cobbler to oven and bake until browned on top and biscuit is fully cooked through (a cake tester should come out clean when inserted into biscuit near the center of the baking dish), about 25 minutes longer. Let rest at least 30 minutes. Serve warm or at room temperature with ice cream or whipped cream on the side.
 
 ---
-Imported From Paprika

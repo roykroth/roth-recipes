@@ -22,4 +22,3 @@ directions:
 - Heat a frying pan or griddle over medium hot burner, the pan is hot enough when drops of water sprinkle on it immediately sizzle. Spray with non-stick cooking spray. Using a ladle, pour batter into what will be the center of the pancake. Pouring the batter in this way results in a perfectly round pancake. Bake pancake until bubbles start to appear on surface. Flip over and continue cooking until browned on the other side.
 
 ---
-Imported From Paprika

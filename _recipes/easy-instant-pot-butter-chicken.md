@@ -27,4 +27,3 @@ directions:
 - Carefully lift lid. Serve immediately or leave in pot and set to saute low for just a few minutes allowing the sauce to bubble and thicken a bit if you desire. Turn off and allow to cool a bit and rest if you want sauce to thicken a bit more. Serve with rice and/or naan.
 
 ---
-Imported From Paprika

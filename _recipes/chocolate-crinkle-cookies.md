@@ -27,4 +27,3 @@ directions:
 - Bake cookies, 1 sheet at a time, until puffed and cracked and edges have begun to set but centers are still soft (cookies will look raw between cracks and seem underdone), about 12 minutes, rotating sheet halfway through baking. Let cool completely on sheet before serving.
 
 ---
-Imported From Paprika

@@ -19,4 +19,3 @@ directions:
 - Stir for 30 seconds over the heat (I often just take mine off so I don’t risk boiling over) and serve immediately.
 
 ---
-Imported From Paprika
