@@ -2,7 +2,7 @@
 
 layout: recipe
 title: AD Chocolate Cake
-image:
+image: adcake.jpg
 
 ingredients:
 - Devil's food cake mix
