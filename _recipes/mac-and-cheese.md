@@ -9,5 +9,7 @@ ingredients:
 
 directions:
 - Make it.
+- Eat it.
+- Enjoy it.
 ---
 
