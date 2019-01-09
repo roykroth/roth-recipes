@@ -16,8 +16,8 @@ ingredients:
 - 1 1/2 C chicken broth
 
 directions:
-- "Night before serving: in a preheated 400 degree oven, toast bread cubes for 5-7 minutes or until toasted. Store in bowl overnight. They will get stale."
-- "Day of serving: in a large skillet, melt butter and cook onion and celery over medium heat until softened, about 3 minutes."
+- "**Night before serving:** in a preheated 400 degree oven, toast bread cubes for 5-7 minutes or until toasted. Store in bowl overnight. They will get stale."
+- "**Day of serving:** in a large skillet, melt butter and cook onion and celery over medium heat until softened, about 3 minutes."
 - Transfer to bowl with bread cubes, add seasonings and broth. Toss well and place in baking dish. Bake at 325 degrees for about 20 minutes.
 
 ---
