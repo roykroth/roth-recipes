@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Refresh from git
+git pull
+
 # Add changes to git
 git add .
 
