@@ -23,4 +23,4 @@ directions:
 
 ---
 
-Probably the best pancake recipe we know. One of these days we hope to get to Nashville and try the [real thing](http://www.arethas.com/)!
+Probably the best pancake recipe we know. One of these days we hope to get to Chattanooga and try the [real thing](http://www.arethas.com/)!
