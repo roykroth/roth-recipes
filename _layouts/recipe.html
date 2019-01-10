@@ -48,7 +48,7 @@ layout: default
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
-        <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+        <li itemprop="recipeIngredient">{{ ingredient | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;" | replace: "1/2", "&#189;" | replace: "1/4", "&#188;" | replace: "3/4", "&#190;" | replace: "1/3", "&#8531;" | replace: "2/3", "&#8532;" | replace: "1/8", "&#8539;" | replace: "3/8", "&#8540;" | replace: "5/8", "&#8541;" | replace: "7/8", "&#8542;"}}</li>
         {% endfor %}
       </ul>
       {% endif %}
@@ -58,7 +58,7 @@ layout: default
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
-        <li>{{ direction | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;"}}</li>
+        <li>{{ direction | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;" | replace: "1/2", "&#189;" | replace: "1/4", "&#188;" | replace: "3/4", "&#190;" | replace: "1/3", "&#8531;" | replace: "2/3", "&#8532;" | replace: "1/8", "&#8539;" | replace: "3/8", "&#8540;" | replace: "5/8", "&#8541;" | replace: "7/8", "&#8542;"}}</li>
         {% endfor %}
       </ul>
     </div>
