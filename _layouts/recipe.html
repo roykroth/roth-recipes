@@ -58,7 +58,7 @@ layout: default
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
-        <li>{{ direction | markdownify }}</li>
+        <li>{{ direction | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;"}}</li>
         {% endfor %}
       </ul>
     </div>
