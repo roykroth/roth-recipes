@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Cafe Rio Style Pork
-image:
+image: Cafe-Rio-Sweet-Pulled-Pork-9.jpg
 
 ingredients:
 - 2 lbs pork (use boneless pork rib meat)

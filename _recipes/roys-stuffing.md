@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Roy's Stuffing
-image: 
+image: farmhouse-herbed-stuffing.jpg
 
 ingredients:
 - 12 C 1/2in cubes of crusty bread

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Red Beans & Rice
-image: 
+image: red-beans-rice.jpg
 
 ingredients:
 - 1 lb dried red kidney beans

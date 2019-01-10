@@ -2,7 +2,7 @@
 
 layout: recipe
 title: PF Chang's Lettuce Wraps Copycat
-image:
+image: lettucewraps.jpg
 
 ingredients:
 - 1 tbsp olive oil
