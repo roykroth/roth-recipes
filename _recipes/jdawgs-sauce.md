@@ -18,4 +18,4 @@ directions:
 - Combine all ingredients in a saucepan. Heat till bubbling. Remove from heat and allow to cool. 
 
 ---
-Best hot dog sauce of all time.
+Best hot dog sauce of all time. Best served on a dog that has been cut in a cross hatched pattern and topped with a pickle spear. Whenever you are in Utah, get the real thing at any [JDawgs](http://jdawgs.com)!
