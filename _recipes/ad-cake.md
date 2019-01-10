@@ -19,7 +19,7 @@ ingredients:
 directions:
 - Preheat oven to 325 degrees.
 - Combine cake mix, granulated sugar, oil, water and eggs. 
-- Pour into 3 8 inch rounds, greased and floured.
+- Pour into three 8 inch rounds, greased and floured.
 - Bake for 20 min or until done.
 - Bring 1 C whipping cream to a boil, then stir chocolate chips until melted, use whisk.
 - Cool until room temperature. 
