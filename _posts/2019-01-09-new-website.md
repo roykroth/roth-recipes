@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the Roth Family Recipe Website!"
+title: "Welcome to the Roth Family Recipe Website!"
 author: Roy
 ---
 
