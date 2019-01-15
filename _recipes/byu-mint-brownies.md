@@ -15,14 +15,14 @@ ingredients:
 - 1/2 tsp. salt
 - 1 c. chopped walnuts
 - 12 oz. chocolate icing (Use your own icing recipe or purchase some chocolate frosting. You can also search the Internet for chocolate icing recipes.)
-- Mint Icing
-- 5 Tbsp. margarine
-- dash of salt
-- 3 Tbsp. milk
-- 1 Tbsp. light corn syrup
-- 2 1/3 c. powdered sugar
-- 1/2 tsp. mint extract
-- 1 drop green food coloring
+- Mint Icing: 
+  - 5 Tbsp. margarine
+  - dash of salt
+  - 3 Tbsp. milk
+  - 1 Tbsp. light corn syrup
+  - 2 1/3 c. powdered sugar
+  - 1/2 tsp. mint extract
+  - 1 drop green food coloring
 
 directions:
 - Melt margarine and mix in cocoa. Allow to cool. Add honey, eggs, sugar, flour, baking powder, and salt. Mix well. Add nuts. Pour batter into a greased 9-by-13 baking pan. Bake at 350 degrees for 25 minutes. Cool.
