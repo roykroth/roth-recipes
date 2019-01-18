@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Lentil soup
+title: Lentil Soup
 image: lentil-soup.jpg
 
 ingredients:

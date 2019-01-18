@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: chicken Corn Chowder
+title: Chicken Corn Chowder
 image: chicken-corn-chowder.jpg
 
 ingredients:
