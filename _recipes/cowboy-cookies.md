@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: cowboy cookies
+title: Cowboy Cookies
 image: cowboycookies.jpg
 
 ingredients:

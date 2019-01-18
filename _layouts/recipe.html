@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="container" itemscope itemtype="http://schema.org/Recipe">
-  
 <!-- call up the image and image credit link -->
   {% for image in page.image %}
   <div class="xs-p2">
@@ -34,7 +33,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
-      <h4 class="blue mt0 mb2 xs-center">Components</h4>
+      <h4 class="blue mt0 mb2 xs-center">Components <a href="{{page.url}}#components">(Recipes Below)</a></h4>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
@@ -48,7 +47,7 @@ layout: default
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
-        <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+        <li itemprop="recipeIngredient">{{ ingredient | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;" | replace: "1/2", "&#189;" | replace: "1/4", "&#188;" | replace: "3/4", "&#190;" | replace: "1/3", "&#8531;" | replace: "2/3", "&#8532;" | replace: "1/8", "&#8539;" | replace: "3/8", "&#8540;" | replace: "5/8", "&#8541;" | replace: "7/8", "&#8542;"}}</li>
         {% endfor %}
       </ul>
       {% endif %}
@@ -58,7 +57,7 @@ layout: default
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
-        <li>{{ direction | markdownify }}</li>
+        <li>{{ direction | markdownify | replace: " degrees", "&deg;" | replace: " degree", "&deg;" | replace: "1/2", "&#189;" | replace: "1/4", "&#188;" | replace: "3/4", "&#190;" | replace: "1/3", "&#8531;" | replace: "2/3", "&#8532;" | replace: "1/8", "&#8539;" | replace: "3/8", "&#8540;" | replace: "5/8", "&#8541;" | replace: "7/8", "&#8542;"}}</li>
         {% endfor %}
       </ul>
     </div>
@@ -69,8 +68,8 @@ layout: default
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
   
-  <div class="components bg-darken-2 p2 mt3 mb3 center">
-    &darr; This is a <strong class="blue">component-based recipe</strong> (fancy talk for making the dish in pieces, then assembling). &darr;
+  <div class="components bg-darken-2 p2 mt3 mb3 center" id ="components" >
+    <h2 class="blue mt0 mb2 xs-center">Component Recipes</h2>
   </div>
   
   <div class="clearfix mxn2">
