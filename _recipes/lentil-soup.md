@@ -24,7 +24,7 @@ directions:
 - Add the lentils, tomatoes, broth, spices and stir to combine. 
 - Increase the heat to high and bring to a boil. 
 - Reduce the heat to low, cover and cook at a low simmer until the lentils are tender, approximately 35-40 minutes.
-- Useing a stick blender, puree to your preferred consistency.
+- Using a stick blender, puree to your preferred consistency.
 
 ---
 If you do not have grains of paradise, pepper can be substituted.
