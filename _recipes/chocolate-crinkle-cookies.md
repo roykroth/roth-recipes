@@ -6,18 +6,18 @@ image: 4C3D15E5-7974-4596-BF6F-C34DC3FA6345.jpg
 
 ingredients:
 - 1 cup (5 ounces) all-purpose flour
-- ½ cup (1 1/2 ounces) unsweetened cocoa powder
+- 1/2 cup (1 1/2 ounces) unsweetened cocoa powder
 - 1 teaspoon baking powder
-- ¼ teaspoon baking soda
-- ½ teaspoon salt
-- 1 ½ cups packed (10 1/2 ounces) brown sugar
+- 1/4 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 1/2 cups packed (10 1/2 ounces) brown sugar
 - 3 large eggs
 - 4 teaspoons instant espresso powder (optional)
 - 1 teaspoon vanilla extract
 - 4 ounces unsweetened chocolate, chopped
 - 4 tablespoons unsalted butter
-- ½ cup (3 1/2 ounces) granulated sugar
-- ½ cup (2 ounces) confectioners' sugar
+- 1/2 cup (3 1/2 ounces) granulated sugar
+- 1/2 cup (2 ounces) confectioners' sugar
 
 directions:
 - Adjust oven rack to middle position and heat oven to 325 degrees. Line 2 baking sheets with parchment paper. Whisk flour, cocoa, baking powder, baking soda, and salt together in bowl.

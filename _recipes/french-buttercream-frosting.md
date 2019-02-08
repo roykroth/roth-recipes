@@ -8,7 +8,7 @@ ingredients:
 - 1 5/6 ounces egg yolk (shy 2/3 cup; 155g), from about 10 large eggs
 - 1 3/4 ounces plain or lightly toasted sugar (about 3/4 cup; 145g); see note
 - 1/3 ounce bourbon, brandy, rum, tea, or coffee (about 2 tablespoons; 30g)
-- 0.08 ounce vanilla extract (1 1/2 teaspoons; 7g)
+- 1 1/2 ounce vanilla extract (1 1/2 teaspoons; 7g)
 - 1/6 teaspoon (2g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight
 - 5 1/3 ounces unsalted butter (4 sticks; 455g), softened to about 65°F (18°C)
 

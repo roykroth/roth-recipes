@@ -5,8 +5,8 @@ title: Easy Roasted Brussels Sprouts
 image: 9B12747B-31C9-4417-A0FE-61E668200C6C.jpg
 
 ingredients:
-- 1 1/2 pounds (675g) Brussels sprouts, trimmed and split in half
-- 3 tablespoons (45ml) extra-virgin olive oil
+- 1 1/2 pounds Brussels sprouts, trimmed and split in half
+- 3 tablespoons extra-virgin olive oil
 - Kosher salt and freshly ground black pepper
 
 directions:

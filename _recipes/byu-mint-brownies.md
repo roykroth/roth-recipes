@@ -22,7 +22,7 @@ ingredients:
 - 1 Tbsp. light corn syrup
 - 2 1/3 c. powdered sugar
 - 1/2 tsp. mint extract
-- 1-2 drops green food coloring
+- 1 drop green food coloring
 
 directions:
 - Melt margarine and mix in cocoa. Allow to cool. Add honey, eggs, sugar, flour, baking powder, and salt. Mix well. Add nuts. Pour batter into a greased 9-by-13 baking pan. Bake at 350 degrees for 25 minutes. Cool.

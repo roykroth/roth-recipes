@@ -9,13 +9,14 @@ ingredients:
 - 1/4 C coconut oil
 - 1 1/2 C brown sugar
 - 1/2 C white sugar
-- 1 egg + 1 egg yolk
+- 1 egg 
+- 1 egg yolk
 - 1 tbsp vanilla
 - 1 tsp baking soda dissolved in tbsp water
 - 2 1/2 C all purpose flour
 - 1/2 tsp salt
 - 8 oz chocolate chopped (I used dark chocolate bars)
-- 5 oz werthers soft caramels, cut in half
+- 5 oz Werthers soft caramels, cut in half
 - 1 C crushed pretzels
 - flaky sea salt
 

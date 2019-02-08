@@ -5,11 +5,11 @@ title: Real Proper Custard
 image: ccdaf4c7-8419-43ea-91ce-9a86ebf424c5.jpg
 
 ingredients:
-- 570ml/1 pint milk
-- 55ml/2fl oz single cream
-- 1 vanilla pod or ½ tsp vanilla extract
+- 570 ml pint milk
+- 55 ml oz single cream
+- 1 vanilla pod or 1/2 tsp vanilla extract
 - 4 eggs, yolks only
-- 30g/1oz caster sugar
+- 30 g caster sugar
 - 2 level tsp cornflour
 
 directions:

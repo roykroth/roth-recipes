@@ -5,11 +5,11 @@ title: Roberta’s Pizza Dough
 image: e402b9d1-adf7-4e74-8871-914c46c8b4dd.jpg
 
 ingredients:
-- 153 grams 00 flour (1 cup plus 1 tablespoon)
-- 153 grams all-purpose flour (1 cup plus 1 tablespoon and 2 teaspoons)
-- 8 grams fine sea salt (1 teaspoon)
-- 2 grams active dry yeast (3/4 teaspoon)
-- 4 grams extra-virgin olive oil (1 teaspoon)
+- 153 grams 00 flour
+- 153 grams all-purpose flour
+- 8 grams fine sea salt
+- 2 grams active dry yeast
+- 4 grams extra-virgin olive oil
 
 directions:
 - In a large mixing bowl, combine flours and salt.

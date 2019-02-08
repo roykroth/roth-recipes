@@ -5,7 +5,7 @@ title: Copycat Waffle Love Liege Waffle
 image: 0a1822b0-1399-4135-83f2-300eb58bf336.jpg
 
 ingredients:
-- 3/8 cup whole milk, scalded and cooled to warm milk * SEE NOTES
+- 3/8 cup whole milk, scalded and cooled to warm milk
 - 1 tablespoons water, warmed
 - 3/4 teaspoons sugar
 - 1 teaspoons instant yeast
@@ -15,7 +15,7 @@ ingredients:
 - 1 1/2 tablespoons white sugar
 - 1 1/2 teaspoons vanilla
 - 1 cups bread flour
-- 3/4-7/8 cups flour
+- 3/4 cups flour
 - 1 cups Belgian pearl sugar
 
 directions:

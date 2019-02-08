@@ -6,6 +6,7 @@ image: red-beans-rice.jpg
 
 ingredients:
 - 1 lb dried red kidney beans
+- 1 ham bone
 - 2 quarts water
 - 1 lb country sausage, diced
 - 3 cloves garlic, minced
@@ -21,7 +22,7 @@ ingredients:
 - 3-4 C rice
 
 directions:
-- Rinse beans well and drain. Put beans and water in a large pot and bring to a boil. Reduce heat and simmer 40 minutes.
+- Rinse beans well and drain. Put beans, ham bone, and water in a large pot and bring to a boil. Reduce heat and simmer 40 minutes.
 - Add sausage and cook, covered, over low heat for 1 hour, stirring occassionally. 
 - Add garlic, onion, celery, green pepper, green onion and bay leaf.
 - Continue cooking, covered, over low leat for 1/2 hours until beans are soft.

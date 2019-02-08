@@ -6,14 +6,14 @@ image: F1082CD2-06E9-4AB1-9A20-34D0E8275CD2-8076-0000021C85673CD8.jpg
 
 ingredients:
 - 1 egg, slightly beaten
-- 1 ½ c buttermilk
+- 1 1/2 c buttermilk
 - 1 T canola oil
 - 1 c flour
 - 1 T (yes tablespoon) baking powder
 - 2 T sugar
-- ½ t baking soda
-- ½ t salt
-- ¼ c dry farina cereal (Cream of Wheat)
+- 1/2 t baking soda
+- 1/2 t salt
+- 1/4 c dry farina cereal (Cream of Wheat)
 
 directions:
 - In a bowl, combine and mix together liquid ingredients. 

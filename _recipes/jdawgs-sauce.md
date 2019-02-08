@@ -6,12 +6,12 @@ image: jdawg.jpg
 
 ingredients:
 - 1 cup ketchup
-- ¾ cup brown sugar
+- 3/4 cup brown sugar
 - 1 tbsp bbq sauce
-- ¼ cup honey
+- 1/4 cup honey
 - 1 tsp soy sauce
-- 1½ tsp worcestershire sauce
-- ½ tsp onion powder
+- 1 1/2 tsp worcestershire sauce
+- 1/2 tsp onion powder
 - 1 tsp black pepper
 
 directions:

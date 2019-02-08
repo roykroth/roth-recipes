@@ -8,10 +8,10 @@ ingredients:
 - 1 Cup + 2 tablespoons very finely ground salted pretzel crumbs (processing crumbs in the food processor for 30 seconds works well.)
 - 3 tbsp. Granulated Sugar
 - 7 tbsp. Melted butter
-- ½ cup fresh lime juice
+- 1/2 cup fresh lime juice
 - 4 tsp. Grated lime zest
 - 4 egg yolks
-- 1 14 oz. can Sweet Condensed Milk
+- 1 can Sweet Condensed Milk - 14 oz.
 - Whipped Cream
 
 directions:
