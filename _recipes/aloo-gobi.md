@@ -13,7 +13,7 @@ ingredients:
 - 2 jalapeno peppers, stemmed and sliced
 - 1 tbsp cumin seeds
 - 1 pinch cayenne pepper
-- 1 tbsp garam masala
+- 1 tbsp [garam masala](garam-masala.html)
 - 1 tbsp kosher salt
 - 1 tsp tumeric
 - 3 tbsp canola oil

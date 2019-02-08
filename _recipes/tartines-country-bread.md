@@ -16,7 +16,7 @@ ingredients:
 
 directions:
 
-- Make the dough. In a large bowl, combine 200 grams of leaven with 700 grams of warm water and stir to disperse.
+-  In a large bowl, combine 200 grams of leaven with 700 grams of warm water and stir to disperse.
 - Add 900 grams of white-bread flour and 100 grams of whole-wheat flour to bowl and use your hands to mix until no traces of dry flour remain. The dough will be sticky and ragged. Cover bowl with a towel and let dough rest for 25 to 40 minutes at room temperature.
 - Add 20 grams fine sea salt and 50 grams warm water. Use hands to integrate salt and water into dough thoroughly. The dough will begin to pull apart, but continue mixing; it will come back together.
 - Cover dough with a towel and transfer to a warm environment, 75 to 80 degrees ideally (like near a window in a sunny room, or inside a turned-off oven). Let dough rise for 30 minutes. Fold dough by dipping hand in water, taking hold of the underside of the dough at one quadrant and stretching it up over the rest of the dough. Repeat this action 3 more times, rotating bowl a quarter turn for each fold. Do this every half-hour for 2 1/2 hours more (3 hours total). The dough should be billowy and increase in volume 20 to 30 percent. If not, continue to let rise and fold for up to an hour more.
