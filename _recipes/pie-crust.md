@@ -7,7 +7,7 @@ image: piecrust.jpg
 ingredients:
 - 1 C unsifted flour
 - 1/2 tsp salt
-- 1/3 C chilled 
+- 1/3 C chilled butter
 - 3 tbsp cold water
 
 directions:
