@@ -5,16 +5,18 @@ title: BYU Mint Brownies
 image: C8C16951-E713-4397-BF16-72E1F9E3F318.jpg
 
 ingredients:
-- 1 c. margarine
-- 1/2 c. cocoa
-- 2 Tbsp. honey
-- 4 eggs
-- 2 c. sugar
-- 1 3/4 c. flour
-- 1/2 Tbsp. baking powder
-- 1/2 tsp. salt
-- 1 c. chopped walnuts
-- 12 oz. chocolate icing (Use your own icing recipe or purchase some chocolate frosting. You can also search the Internet for chocolate icing recipes.)
+
+- Brownies: 
+  - 1 c. margarine
+  - 1/2 c. cocoa
+  - 2 Tbsp. honey
+  - 4 eggs
+  - 2 c. sugar
+  - 1 3/4 c. flour
+  - 1/2 Tbsp. baking powder
+  - 1/2 tsp. salt
+  - 1 c. chopped walnuts
+  - 12 oz. chocolate icing (Use your own icing recipe or purchase some chocolate frosting. You can also search the Internet for chocolate icing recipes.)
 - Mint Icing: 
   - 5 Tbsp. margarine
   - dash of salt
