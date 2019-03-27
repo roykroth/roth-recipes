@@ -27,8 +27,20 @@ ingredients:
   - 1 drop green food coloring
 
 directions:
-- Melt margarine and mix in cocoa. Allow to cool. Add honey, eggs, sugar, flour, baking powder, and salt. Mix well. Add nuts. Pour batter into a greased 9-by-13 baking pan. Bake at 350 degrees for 25 minutes. Cool.
-- Prepare mint icing. Soften margarine. Add salt, corn syrup, and powdered sugar. Beat until smooth and fluffy. Add mint extract and food coloring. Mix. Add milk gradually until the consistency is a little thinner than cake frosting.
-- Spread mint icing over brownies. Place brownies in the freezer for a short time to stiffen the icing. Remove from the freezer and carefully add a layer of chocolate icing.
+- Bake Brownies: 
+  - Melt margarine and mix in cocoa. Allow to cool. 
+  - Add honey, eggs, sugar, flour, baking powder, and salt to margarine and cocoa. Mix well. 
+  - Add nuts. 
+  - Pour batter into a greased 9-by-13 baking pan. 
+  - Bake at 350 degrees for 25 minutes. Cool.
+- Prepare Mint Icing:
+  -  Soften margarine. 
+  -  Add salt, corn syrup, and powdered sugar. Beat until smooth and fluffy. 
+  -  Add mint extract and food coloring. Mix. 
+  -  Add milk gradually until the consistency is a little thinner than cake frosting.
+- Assemble Brownies: 
+  - Spread mint icing over brownies. 
+  - Place brownies in the freezer for a short time to stiffen the icing. 
+  - Remove from the freezer and carefully add a layer of chocolate icing.
 
 ---
