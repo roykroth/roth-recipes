@@ -5,8 +5,8 @@ title: The Best Carrot Cake
 image: bestcarrotcake.jpg
 
 ingredients:
-- For the carrot cake
-- 250 grams all-purpose flour (spooned & leveled)
+- For the carrot cake: 
+- 250 grams all-purpose flour
 - 2 teaspoons baking powder
 - 1 teaspoon baking soda
 - 1 and 1/2 teaspoons ground cinnamon
@@ -20,7 +20,7 @@ ingredients:
 - 125 grams unsweetened applesauce
 - 1 teaspoon pure vanilla extract
 - 300 grams grated carrots, lightly packed
-- For the cream cheese frosting
+- For the cream cheese frosting:
 - 8 ounce package brick style cream cheese, softened to room temperature
 - 115 grams unsalted butter, softened to room temperature
 - 240 grams powdered sugar
