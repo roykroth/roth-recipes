@@ -16,4 +16,7 @@ collections:
   recipes:
     output: true
 
+plugins:
+  - jemoji
+
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
