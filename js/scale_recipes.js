@@ -1,7 +1,7 @@
 'use strict';
 const scaleFactor = 1;
 
-preprocessIngredients();
+preprocess();
 scaleRecipe(scaleFactor);
 
 //  --- Functions needed ---
@@ -132,7 +132,35 @@ function preprocessIngredients(){
     document.body.appendChild(div2)
 }
 
-function scaleRecipe(scale = 1){
+function preprocessYield(){
+    let quantity;
+    let base;
+    let ryield = document.querySelector('span[itemprop=recipeYield]');
+    if (ryield !== null){
+        let yieldclean = ryield.innerHTML;
+        quantity = extractQuantity(yieldclean);
+        base = yieldclean.substring(quantity.length);
+    }
+    else {
+        quantity = '';
+        base = '';
+    }
+    let div = document.createElement('div');
+    div.id = 'yield-quantity';
+    div.dataset.quantity = quantity;
+    document.body.appendChild(div);
+    let div2 = document.createElement('div');
+    div2.id = 'yield-base';
+    div2.dataset.unit = base;
+    document.body.appendChild(div2);
+}
+
+function preprocess(){
+    preprocessIngredients();
+    preprocessYield();
+}
+
+function scaleIngredients(scale = 1){
     let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient]')
     let quantities = document.getElementById('ingredient-quantities').dataset.quantities.split(';');
     let bases = document.getElementById('ingredient-bases').dataset.ingredients.split(';');
@@ -143,6 +171,19 @@ function scaleRecipe(scale = 1){
     }
 }
 
+function scaleYield(scale = 1){
+    let ryield = document.querySelector('span[itemprop=recipeYield]');
+    let quantity = document.getElementById('yield-quantity').dataset.quantity;
+    let base = document.getElementById('yield-base').dataset.unit;
+    if (ryield !== null) {
+        ryield.innerHTML = scaleIngredient(base, quantity, scale)
+    }
+}
+
+function scaleRecipe(scale = 1){
+    scaleIngredients(scale);
+    scaleYield(scale);
+}
 function liveScaleRecipe(event){
     scaleRecipe(this.options[this.selectedIndex].value)
 }
