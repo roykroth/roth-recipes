@@ -23,6 +23,73 @@ layout: default
   <header class="post-header">
     <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
   </header>
+  <!-- Add metadata about cooktime, active time, and yield -->
+  <div id=metadata>
+    {% if page.yield or page.cooktime or page.activetime %}
+    <hr>
+    {% endif %}
+    {% if page.yield and page.cooktime and page.activetime %}
+    <div class="clearfix mt3">
+      <div class="sm-col sm-col-4 lg-col-4 center">
+        <b>Yield:</b> <span itemprop="recipeYield">{{page.yield}}</span>
+      </div>
+      <div class="sm-col sm-col-4 lg-col-4 center">
+        <b>Cook Time:</b> <span itemprop="cookTime">{{page.cooktime}}</span>
+      </div>
+      <div class="sm-col sm-col-4 lg-col-4 center">
+        <b>Active Time:</b> <span itemprop="prepTime">{{page.activetime}}</span>
+      </div>
+    </div>
+    {% elsif page.yield and page.cooktime %}
+      <div class="clearfix mt3">
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Yield:</b> <span itemprop="recipeYield">{{page.yield}}</span>
+        </div>
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Cook Time:</b> <span itemprop="cookTime">{{page.cooktime}}</span>
+        </div>
+      </div>
+    {% elsif page.yield and page.activetime %}
+      <div class="clearfix mt3">
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Yield:</b> <span itemprop="recipeYield">{{page.yield}}</span>
+        </div>
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Active Time:</b> <span itemprop="prepTime">{{page.activetime}}</span>
+        </div>
+      </div>
+    {% elsif page.cooktime and page.activetime %}
+      <div class="clearfix mt3">
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Cook Time:</b> <span itemprop="cookTime">{{page.cooktime}}</span>
+        </div>
+        <div class="sm-col sm-col-6 lg-col-6 center">
+          <b>Active Time:</b> <span itemprop="prepTime">{{page.activetime}}</span>
+        </div>
+      </div>
+    {% elsif page.yield %}
+    <div class="clearfix mt3">
+      <div class="sm-col center">
+        <b>Yield:</b> <span itemprop="recipeYield">{{page.yield}}</span>
+      </div>
+    </div>
+    {% elsif page.cooktime %}
+      <div class="clearfix mt3">
+        <div class="sm-col center">
+          <b>Cook Time:</b> <span itemprop="cookTime">{{page.cooktime}}</span>
+        </div>
+      </div>
+    {% elsif page.activetime %}
+      <div class="clearfix mt3">
+        <div class="sm-col center">
+          <b>Active Time:</b> <span itemprop="prepTime">{{page.activetime}}</span>
+        </div>
+      </div>
+    {% endif %}
+    {% if page.yield or page.cooktime or page.activetime %}
+    <hr>
+    {% endif %}
+  </div>
 
   <div class="px2 mt3 clearfix">
     <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>

@@ -3,6 +3,9 @@
 layout: recipe
 title: Christmas Caramels
 image: christmascaramels.jpg
+cooktime: 2 hours
+activetime: 1 hour
+yield: 100 caramels
 
 ingredients:
 - 1/2 C butter
