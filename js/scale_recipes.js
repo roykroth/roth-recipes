@@ -72,7 +72,7 @@ function numberToPretty(inNum){
     } else if (Math.abs(fraction - 8 / 9) < 0.00001) {
         fracRep = " <sup>8</sup>&frasl;<sub>9</sub>";
     } else {
-        fracRep = toString(fraction);
+        fracRep = fraction.toString();
     }
     // Now, if it matches a nice fraction code in html give it that, otherwise leave as decimal
     // let final = (wholeNumber + fracRep).trim() // concatenate
