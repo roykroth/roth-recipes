@@ -5,7 +5,7 @@ title: Basic Sourdough
 image: basic-sourdough.jpg
 
 ingredients:
-- 200 grams sourdough starter at peak activity 
+- 200 grams [sourdough starter](/maintaining-a-sourdough-starter.html) at peak activity 
 - 400 ml lukewarm water
 - 610 grams flour
 - 18 grams salt
@@ -21,8 +21,9 @@ directions:
 - Place bowl in refrigerator for 8-48 hours.
 - Remove bowl from fridge and form the dough into a ball on a floured counter. Let rest 15 minutes.
 - Place dough into floured banneton or bowl lined with floured cloth. Cover and let rest for 2 1/2 to 3 hours. Note dough will not rise much but will warm and relax. 
-- 45 minutes before baking, preheat oven to 450 degrees and place covered dutch oven into oven to preheat.
-- Turn dough into dutch oven and cover. Bake for 30 minutes covered, then remove cover and bake for a further 15 minutes or until internal temperature reaches 210 degrees. 
+- 45 minutes before baking, preheat oven to 450 degrees and place a pizza steel or stone on the top rack.
+- Immediately before baking, place a cookie sheet on the bottom rack of the oven and fill with water. This will produce steam during the baking process
+- Turn dough onto a pizza peel, score the top, and slide onto pizza steel. Bake for 40 minutes or until internal temperature reaches 210 degrees. 
 
 ---
-A workhorse sourdough. The recipe is adapted from the King Arthur Flour [No-Knead Recipe](https://www.kingarthurflour.com/recipes/no-knead-sourdough-bread-recipe) with the baking procedure inspired by [Tartine Bread](https://cooking.nytimes.com/recipes/1016277-tartines-country-bread).
+A workhorse sourdough. The recipe is adapted from the King Arthur Flour [No-Knead Recipe](https://www.kingarthurflour.com/recipes/no-knead-sourdough-bread-recipe). See also the [detailed walkthrough](/making-sourdough-bread.html).
