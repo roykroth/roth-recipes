@@ -1262,6 +1262,13 @@ select {
   color: black;
 }
 
+.select-scale-formula {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 0.5cm
+}
+
+
 /* Put in stuff for the forms */
 form {
   max-width: 480px;
