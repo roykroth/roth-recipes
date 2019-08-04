@@ -125,7 +125,7 @@ function scaleIngredients(total = 1000){
     let name;
     let component_names = [];
     for (let i = 0; i < newcomponents.length; i++){
-        name = newcomponents[i].querySelector('h5').innerText.toLowerCase();
+        name = newcomponents[i].querySelector('h5').innerText.toLowerCase().trim();
         component_names.push(name)
     }
     // Now, lets get a list of names and quantities of the ingredients in the final dough. 
@@ -134,7 +134,7 @@ function scaleIngredients(total = 1000){
     let final_ingredients_2 = [];
     let final_quantities_2 = [];
     for (let i = 0; i < final_ingredients.length; i++){
-        final_ingredients_2.push(final_ingredients[i].innerText.toLowerCase())
+        final_ingredients_2.push(final_ingredients[i].innerText.toLowerCase().trim())
         final_quantities_2.push(final_quantities[i].innerText)
     }
     // Now, the plan is to cycle through the component names, find them in the final dough,
