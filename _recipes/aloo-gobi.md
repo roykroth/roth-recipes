@@ -12,12 +12,12 @@ ingredients:
 - 2 cloves garlic, peeled and grated 
 - 2 jalapeno peppers, stemmed and sliced
 - 1 tbsp cumin seeds
-- 1 pinch cayenne pepper
 - 1 tbsp [garam masala](garam-masala.html)
 - 1 tbsp kosher salt
 - 1 tsp tumeric
 - 3 tbsp canola oil
 - fresh cilantro
+- pinch cayenne pepper
 
 directions:
 - combine all ingredients except cilantro in slow cooker. Stir well to coat everything in the spices.
