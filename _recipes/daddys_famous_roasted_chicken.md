@@ -19,7 +19,7 @@ directions:
 
 - Roasting process:
   - Get the roasting device up to 500 degrees. Wood or charcoal fired oven or grill is recommended. An indoor oven can work as well, but there is a risk of intense smoke. 
-  - Place the chicken in a disposable aluminum tray, on the grill, away from direct heat. 
+  - Place the chicken directly on the grill, away from direct heat. 
   - Leave in the oven for approximately 45 minutes to 1 hour, or until the internal temperature reaches 160 degrees. 
   - Let the chicken rest for 5 to 10 minutes
   - Serve as normal. 
