@@ -2,7 +2,6 @@
 
 layout: recipe
 title: Daddy's Famous Roasted Chicken
-image: 
 
 ingredients:
 - 1 whole chicken.  Roaster preferred over fryer
@@ -16,7 +15,8 @@ directions:
   - Make two holes in the breast, one in each wing, one in each leg, and one in each thigh. 
   - Through each pierced hole, place 1/4 tsp ground marjoram, then one whole garlic clove. 
   - Then cover the entire chicken with salt. Spread salt liberally. When you believe you have spread too much salt, and are sure you have ruined it, you are getting close, give it a little more. 
-  Cover the chicken with plastic wrap and place the chicken in the refrigerator overnight. 
+  - Cover the chicken with plastic wrap and place the chicken in the refrigerator overnight. 
+
 - Roasting process:
   - Get the roasting device up to 500 degrees. Wood or charcoal fired oven or grill is recommended. An indoor oven can work as well, but there is a risk of intense smoke. 
   - Place the chicken in a disposable aluminum tray, on the grill, away from direct heat. 
@@ -26,4 +26,4 @@ directions:
 
 
 ---
-A delicacy from my childhood. I think it originally came from NPR.  
+A delicacy from my childhood. I think it originally came from NPR.
