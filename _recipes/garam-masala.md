@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Garam Masala
-image: 
+image: garam-masala.jpg
 
 ingredients:
 - 3 cardamom pods

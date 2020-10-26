@@ -5,7 +5,7 @@ title: Pumpkin Soup
 image: pumpkin_soup.jpg
 cooktime: 30 minutes
 activetime: 30 minutes
-yield: About 6 servings
+yield: 6 servings
 
 ingredients:
 - 4 Tablespoons butter

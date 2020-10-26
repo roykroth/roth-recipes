@@ -2,7 +2,7 @@
 
 layout: breadformula
 title: Yeasted Sourdough
-image:
+image: yeasted-sourdough.jpg
 
 ingredients:
 - Levain:

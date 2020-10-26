@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Kitchen Sink Cookies
-image:
+image: kitchen_sink_cookies.jpg
 
 ingredients:
 - 1 C cold butter
