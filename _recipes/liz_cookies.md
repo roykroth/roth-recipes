@@ -17,7 +17,7 @@ ingredients:
 - 3 1/2 heaping cups chocolate chips (kirkland)
 
 directions: 
-- Preheat oven to 350. 
+- Preheat oven to 350 degrees. 
 - Mix butter, eggs, vanilla, and sugars together, not too long. 
 - Add baking soda and salt, mix again. 
 - Add in 2 cups of flour at a time, add the the baking powder with the first two cups of flour, mix and add the next two cups of flour, don’t overmix. 
