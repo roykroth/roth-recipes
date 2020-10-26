@@ -29,6 +29,6 @@ directions:
 ---
 These are some dope chocolate chop cookies. Consider the following tips: 
 
-- Try not to touch the dough as the oils from your hands can change the doughs consistency.
-- I tightly pack the dough in the scoops.
-- I do not smash down the cookie dough after I’ve scooped them
+* Try not to touch the dough as the oils from your hands can change the doughs consistency.
+* I tightly pack the dough in the scoops.
+* I do not smash down the cookie dough after I’ve scooped them
