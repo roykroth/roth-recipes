@@ -94,6 +94,7 @@ function extractQuantity(ingredient){
 
 function scaleIngredient(bareIngredient, quantity, scale = 1){
     let matchLength;
+    let result;
     if (quantity == ""){
         matchLength = 0
         quantity = '1'
@@ -102,7 +103,12 @@ function scaleIngredient(bareIngredient, quantity, scale = 1){
         matchLength = quantity.length
     }
     let newQuantity = numberToPretty(scale*quantityToNumber(quantity));
-    let result = newQuantity + ' ' + bareIngredient;
+    if (matchLength == 0){
+        result = bareIngredient;
+    }
+    else {
+        result = newQuantity + ' ' + bareIngredient;
+    }
     return result
 }
 
