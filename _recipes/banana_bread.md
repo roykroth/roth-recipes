@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Banana Bread
-image: banana_bread.jpg
+image: 
 cooktime: 1.5 hours
 activetime: 40 minutes
 yield: 24 muffins

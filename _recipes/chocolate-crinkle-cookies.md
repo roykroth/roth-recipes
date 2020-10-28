@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Chocolate Crinkle Cookies
-image: 4C3D15E5-7974-4596-BF6F-C34DC3FA6345.jpg
+image: 
 
 ingredients:
 - 1 cup (5 ounces) all-purpose flour

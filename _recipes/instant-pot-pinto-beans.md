@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Instant Pot Pinto Beans
-image: pinto_beans.jpg  
+image: 
 
 ingredients:
 - 1 pound of dried beans

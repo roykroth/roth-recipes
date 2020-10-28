@@ -2,7 +2,7 @@
 
 layout: recipe
 title: BYU Mint Brownies
-image: C8C16951-E713-4397-BF16-72E1F9E3F318.jpg
+image: 
 
 ingredients:
 

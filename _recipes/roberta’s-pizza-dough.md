@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Roberta’s Pizza Dough
-image: e402b9d1-adf7-4e74-8871-914c46c8b4dd.jpg
+image: 
 
 ingredients:
 - 153 grams 00 flour

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Pumpkin Soup
-image: pumpkin_soup.jpg
+image: 
 cooktime: 30 minutes
 activetime: 30 minutes
 yield: 6 servings

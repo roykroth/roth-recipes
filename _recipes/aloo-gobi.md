@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Aloo Gobi
-image: aloo-gobi.jpg
+image:
 
 ingredients:
 - 1 large cauliflower, cut into 1 inch pieces

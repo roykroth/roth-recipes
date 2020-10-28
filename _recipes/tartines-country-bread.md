@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Tartine’s Country Bread
-image: EC317358-DE52-4615-A20E-9AE31528BE9D.jpg
+image: 
 
 components:
 - Sourdough Leaven

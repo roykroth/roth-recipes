@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Pressure Cooker French Onion Soup
-image: ce07c30c-1642-492f-b2c9-3e6b20954109.jpg
+image:
 
 ingredients:
 - 6 tablespoons unsalted butter, plus more for toasts (3 ounces; about 90g)

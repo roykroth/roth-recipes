@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Buttermilk Syrup
-image: FBFD3EF1-E368-496E-A883-4AE7290B714F.jpg
+image: 
 
 ingredients:
 - 1/4 cup unsalted butter

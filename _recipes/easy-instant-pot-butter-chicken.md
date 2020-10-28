@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Easy Instant Pot Butter Chicken
-image: 2f0d9d72-63fb-4fa6-b432-2e06b74022e4.jpg
+image: 
 
 ingredients:
 - 6 chicken thighs boneless, skinless, cut into cubes

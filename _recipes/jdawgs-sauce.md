@@ -2,7 +2,7 @@
 
 layout: recipe
 title: JDawgs Sauce
-image: jdawg.jpg
+image: 
 
 ingredients:
 - 1 cup ketchup

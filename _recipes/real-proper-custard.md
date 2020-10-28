@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Real Proper Custard
-image: ccdaf4c7-8419-43ea-91ce-9a86ebf424c5.jpg
+image: 
 
 ingredients:
 - 570 ml pint milk

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Christmas Caramels
-image: christmascaramels.jpg
+image:
 cooktime: 2 hours
 activetime: 1 hour
 yield: 100 caramels

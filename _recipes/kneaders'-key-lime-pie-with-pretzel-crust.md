@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Kneaders' Key Lime Pie with Pretzel Crust
-image: A5C7B9F8-1A66-423E-B739-47F8C19CD441.jpg
+image: 
 
 ingredients:
 - 1 Cup + 2 tablespoons very finely ground salted pretzel crumbs (processing crumbs in the food processor for 30 seconds works well.)

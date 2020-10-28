@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Yellow Jasmine Rice
-image: 92C21ECF-66DE-427E-AE6E-A92783071279.jpg
+image: 
 
 ingredients:
 - 2 Tbsp butter

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: French Buttercream Frosting
-image: 12214824-E8AF-4C9A-96AC-E7F34B5E7039.jpg
+image: 
 
 ingredients:
 - 1 5/6 ounces egg yolk (shy 2/3 cup; 155g), from about 10 large eggs

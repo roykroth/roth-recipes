@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Black Bean and Corn Salsa
-image: black_bean_corn_salsa.jpg
+image: 
 
 ingredients:
 - 2 15 Oz. Cans Black Beans, Rinsed And Drained

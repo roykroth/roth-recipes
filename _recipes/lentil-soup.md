@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Lentil Soup
-image: lentil-soup.jpg
+image: 
 
 ingredients:
 - 2 tsbp olive oil

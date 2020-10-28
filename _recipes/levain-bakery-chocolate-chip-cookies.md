@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Levain Bakery Chocolate Chip Cookies
-image: LevainCookies-5-683x1024.jpg
+image: 
 
 ingredients:
 - 1 C butter cut into tbsp

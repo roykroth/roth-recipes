@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Usevitch Rolls
-image: usevitchrolls.jpg
+image: 
 
 ingredients:
 - 1/2 tsp salt

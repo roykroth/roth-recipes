@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Gingersnaps
-image: gingersnaps.jpg
+image: 
 
 ingredients:
 - 1 C sugar

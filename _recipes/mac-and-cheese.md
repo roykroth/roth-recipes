@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Macaroni and Cheese
-image: Mac-cheese.jpg
+image: 
 
 ingredients:
 - 1/2 lb macaroni

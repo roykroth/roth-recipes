@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Peanut Butter Cookies
-image: PBcookies.jpg
+image: 
 
 ingredients:
 - 2/3 C butter

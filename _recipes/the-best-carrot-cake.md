@@ -2,7 +2,7 @@
 
 layout: recipe
 title: The Best Carrot Cake
-image: bestcarrotcake.jpg
+image: 
 
 ingredients:
 - For the carrot cake: 

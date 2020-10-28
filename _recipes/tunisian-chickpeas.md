@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Tunisian Chickpeas
-image: tunisianchickpeas.jpg
+image: 
 
 ingredients:
 - 2 yellow onions

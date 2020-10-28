@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Oatmeal and Brown Butter Pancakes
-image: FA14C13D-0379-4779-878B-2CADA711DACB.jpg
+image: 
 
 ingredients:
 - 6 ounces (about 1 cup) steel cut oats

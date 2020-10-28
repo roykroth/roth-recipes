@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Liz Cookies
-image: liz_cookies.jpg
+image:
 
 ingredients:
 - 3 sticks butter, cut into chunks cold (kirkland)

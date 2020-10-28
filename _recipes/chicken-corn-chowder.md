@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Chicken Corn Chowder
-image: chicken-corn-chowder.jpg
+image:
 
 ingredients:
 - 2 tbsp butter

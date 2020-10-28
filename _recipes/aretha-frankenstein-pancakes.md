@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Aretha Frankenstein Pancakes
-image: F1082CD2-06E9-4AB1-9A20-34D0E8275CD2-8076-0000021C85673CD8.jpg
+image: 
 
 ingredients:
 - 1 egg, slightly beaten

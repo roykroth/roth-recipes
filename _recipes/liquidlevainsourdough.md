@@ -2,7 +2,7 @@
 
 layout: breadformula
 title: Liquid Levain Sourdough
-image: basic-sourdough.jpg
+image: 
 
 ingredients:
 - Levain:

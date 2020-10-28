@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Israeli-Style Extra-Smooth Hummus
-image: f67edcc4-95d7-4630-b41c-332f54e4f67b.jpg
+image: 
 
 ingredients:
 - 1/2 pound dried chickpeas (1 generous cup; 225g) (see note above)

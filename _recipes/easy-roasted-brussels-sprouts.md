@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Easy Roasted Brussels Sprouts
-image: 9B12747B-31C9-4417-A0FE-61E668200C6C.jpg
+image: 
 
 ingredients:
 - 1 1/2 pounds Brussels sprouts, trimmed and split in half

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Pie Crust
-image: piecrust.jpg
+image: 
 
 ingredients:
 - 1 C unsifted flour

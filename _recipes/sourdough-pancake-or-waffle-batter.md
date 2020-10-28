@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Sourdough Pancake or Waffle Batter
-image: 774da7e7-2e8e-41be-8c73-ab23073efc1c.jpg
+image: 
 
 ingredients:
 - 240 grams sourdough starter “unfed”

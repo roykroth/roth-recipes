@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Perfect Homemade Pita Bread
-image: e59562e7-9319-464c-8f37-86911e89bb33.jpg
+image: 
 
 ingredients:
 - 1 cup (8 ounces) water, 105–110°F

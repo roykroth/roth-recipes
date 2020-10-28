@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Copycat Waffle Love Liege Waffle
-image: 0a1822b0-1399-4135-83f2-300eb58bf336.jpg
+image: 
 
 ingredients:
 - 3/8 cup whole milk, scalded and cooled to warm milk

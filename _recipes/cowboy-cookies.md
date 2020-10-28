@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Cowboy Cookies
-image: cowboycookies.jpg
+image: 
 
 ingredients:
 - 2 C sifted flour
