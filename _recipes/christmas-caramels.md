@@ -19,7 +19,7 @@ directions:
 - Melt butter in skillet. Add sugar, Karo and condensed milk.
 - Cook 15 minutes over medium heat, stirring constantly.
 - During the previous step, line a cookie sheet with parchment paper.
-- Then add cream and continue stirring over medium heat until caramel reaches 242 degrees.
+- Then add cream and continue stirring over medium heat until caramel reaches 242 degrees if you are near sea level. In Colorado, we cook it to 232 degrees.
 - Remove from heat and add vanilla. Stir lightly.
 - Pour into the cookie sheet to cool. 
 - When cool, cut and wrap with wax paper. 
