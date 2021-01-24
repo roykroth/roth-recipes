@@ -257,10 +257,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  commonmarker
   github-pages
   jekyll-compose
   jemoji
-  kramdown (>= 2.3.0)
 
 BUNDLED WITH
    1.17.2
