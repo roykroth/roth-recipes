@@ -15,7 +15,7 @@ ingredients:
 directions:
 - Put dried beans in Instant Pot.
 - Add salt, seasonings, and water.
-- Use “Manual” setting for 25 minutes of pressure.
+- Use “Manual” setting for 50 minutes of pressure.
 - Allow pressure to naturally release, approximately 30-40 minutes.
 - Season beans to taste.
 
