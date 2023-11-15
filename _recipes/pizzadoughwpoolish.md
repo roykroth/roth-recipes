@@ -11,7 +11,7 @@ ingredients:
   - 0.1% Yeast
 - Final Dough:
   - 100% 00 Flour 
-  - 7.5% Salt
+  - 5% Salt
   - 200% Poolish
 
 directions:
