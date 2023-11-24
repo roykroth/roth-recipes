@@ -12,6 +12,7 @@ ingredients:
 - Final Dough:
   - 100% 00 Flour 
   - 5% Salt
+  - 30% Water
   - 200% Poolish
 
 directions:
